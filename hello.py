@@ -30,7 +30,7 @@ if current_language == "pt_BR":
     msg = "Olá Mundo!"
 elif current_language == "it_IT":
     msg = "Ciao Mundo!"
-elif current_language == "es_SP": 
+elif current_language == "es_SP":
     msg = "Hola Mundo!"
 elif current_language == "fi_FI":
     msg = "Tervetuloa Ohjelmoimaan!"
